@@ -14,9 +14,9 @@
 ![爬取后的数据截图](https://img-blog.csdnimg.cn/20200227103829693.png)
 3.数据分析可视化部分图片
 ![出版国家的数量统计](https://img-blog.csdnimg.cn/20200227105650733.png)
-![出版类型]((https://img-blog.csdnimg.cn/20200227105708906.png)
+![出版类型](https://img-blog.csdnimg.cn/20200227105708906.png)
 ![十年间隔的电影数量](https://img-blog.csdnimg.cn/20200227111955957.png)
-![](https://img-blog.csdnimg.cn/20200227121054651.png)
+![趋势对比](https://img-blog.csdnimg.cn/20200227121054651.png)
 
 另：  
 
