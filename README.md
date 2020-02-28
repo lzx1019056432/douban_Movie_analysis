@@ -8,4 +8,16 @@
 
 ## 项目部分截图
 1. 豆瓣Top250电影网站截图
-![网站截图](https://img-blog.csdnimg.cn/20200227102039488.png)
+![电影首页截图](https://img-blog.csdnimg.cn/20200227102039488.png)
+![电影详情页截图](https://img-blog.csdnimg.cn/20200227102119375.png)
+2. 爬取后的数据截图
+![爬取后的数据截图](https://img-blog.csdnimg.cn/20200227103829693.png)
+3.数据分析可视化部分图片
+![出版国家的数量统计](https://img-blog.csdnimg.cn/20200227105650733.png)
+![出版类型]((https://img-blog.csdnimg.cn/20200227105708906.png)
+![十年间隔的电影数量](https://img-blog.csdnimg.cn/20200227111955957.png)
+![观看人数、想看人数、评论趋势对比]((https://img-blog.csdnimg.cn/20200227121054651.png)
+
+另：
+作者正努力成为一名优秀的Python数据分析师，希望有相同目标的小伙伴一起进步、学习。
+项目可能有大大小小的问题，如果有不明白的，欢迎大家给我发邮件 zhenxing87@163.com
